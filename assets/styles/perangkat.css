@@ -1,0 +1,54 @@
+*{
+    font-family: sans-serif;
+}
+
+nav{
+    background-color: #FEC260;
+} 
+
+main{
+    padding: 10px;
+}
+main h2{
+    text-align: center;
+}
+
+ 
+ .card-element-left {
+    float: left;
+    width: 41%;  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+ .card-element-right {
+    color: #535353;
+    float: right;
+    width: 58%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+
+.penduduk-form  {
+     
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tabel-biodata{
+    margin-bottom: 10px;
+}
+
+
+footer {
+    margin-top: 10px;
+    background-color: #FEC260;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    clear: both;
+}

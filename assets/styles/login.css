@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: #FEC260;
+    margin-bottom: 100px;
+}
+
+form h2{
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #FEC260;
+    padding: 10px;
+    border-radius: 5px;
+ }
+
+form{
+    margin:0 auto;
+}
+
+.form{
+    width: 50%;
+ }
+
+.card-element {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+.form-group {
+    margin-top: 10px;
+}
+
+form button {
+    margin-top: 10px;
+}
+
+form p{
+    text-align: center;
+    font-size: small;
+    color: grey;
+}
+
+footer {
+    font-size: small;
+    background-color: #FEC260;
+    padding: 3px;
+    text-align: center;
+}

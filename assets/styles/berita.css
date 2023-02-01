@@ -1,0 +1,70 @@
+*{
+    font-family: sans-serif;
+}
+
+nav{
+    background-color: #FEC260;
+} 
+
+main{
+    padding: 10px;
+}
+main h2{
+    text-align: center;
+}
+main marquee{
+    padding: 10px;
+    background-color:#FEC260;
+    border-radius: 5px;
+    text-align: center;
+    color: #A10035;
+}
+main h3{
+    color: #535353;
+    text-align: center;
+}
+table {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.content {
+    float: left;
+    width: 74%;    
+ }
+
+.aside {
+    color: #535353;
+    float: right;
+    width: 25%;
+ }
+
+ .aside h4{
+    text-align: center;
+ }
+
+
+ .card-element-left {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+ .card-element-right {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+
+.berita-edit  {
+    margin-left: 10px;
+}
+
+
+footer {
+    background-color: #FEC260;
+    padding: 10px;
+    text-align: center;
+}

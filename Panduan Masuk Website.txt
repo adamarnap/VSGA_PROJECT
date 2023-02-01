@@ -1,0 +1,24 @@
+Nama		: Adam Arnap
+Group		: JWD (B)
+Universitas 	: Universitas Amikom Yogyakarta
+NIM 		: 19.12.1311
+
+KETERANGAN MENGENAI PROJECT YANG DIKUMPULKAN
+
+	1. Tata Cara Login : 
+		- File Database terdapat di folder "Database File"
+		- Login sebagai Kepala Desa : 
+			> NIK : 111111
+			> Pass: 123
+		- Login sebagai masyarakat :
+			> NIK : 22222
+			> Pass: 123
+		- Login sebagai Perangkat Desa :
+			> NIK : 333333
+			> Pass: 123
+	2. Fitur Yang sudah dapat di proses :
+		- Login
+		- CRUD Data Penduduk (Login sebagai Perangkat)
+		- CRUD Data Kelahiran (Login sebagai Perangkat)
+		- Laporan Data Penduduk dalam bentuk PDF / PRINT / EXCEL (Login Sebagai Perangkat)
+		- CRUD Berita Desa (Login Sebagai Kepala desa)
